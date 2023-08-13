@@ -30,7 +30,7 @@ ERROR_NO_SUCH_COMMAND=127
 function EXIT_WITH_KEYPRESS () {
 
 	echo
-	echo "Press any key to return to main menu."
+	echo "Press any key to return to continue."
 	echo
 
 	local OLD_IFS=$IFS
