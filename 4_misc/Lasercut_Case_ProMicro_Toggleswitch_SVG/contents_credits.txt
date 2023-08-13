@@ -1,3 +1,0 @@
-* Lasercut files for mountable case that fits SparkFun Pro Micro and a toggle switch
-* Made by Pina Merkert and Klaus Greff
-* Free to reuse and remix - credit authors where possible
